@@ -1,6 +1,7 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.3/unideal-pos-1.0.3.apk",
-  "notes": "Fullscreen, xoay dọc, sửa camera"
+  "version": "1.0.4",
+  "versionCode": 5,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.4/unideal-pos-1.0.4.apk",
+  "sha256": "8b29a90dad5a1f09042687de81621bfe6280c6083d334d53124b17871adaef1d",
+  "notes": "Nhận diện khách và voucher trên đơn nháp, sửa hiển thị bàn phím Android, cập nhật màn hình đăng nhập."
 }
