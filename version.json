@@ -1,7 +1,6 @@
 {
-  "version": "1.0.8",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.8/unideal-pos-1.0.8.apk",
-  "sha256": "52652b35685f142a89de75700dbff115523722dd28a057d2f0a9e3ed2fab17d0",
-  "notes": "Sửa trắng màn hàng đợi đơn, tắt expo-updates emergency launch, tối ưu lưới món và render POS."
+  "version": "1.0.9",
+  "versionCode": 16,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.9/unideal-pos-1.0.9.apk",
+    "notes": "Tối ưu in song song Bill & Tem, in theo số lượng ly món, tăng độ ổn định socket in không dây Wi-Fi/LAN, sửa loop re-render hàng đợi đơn, sửa chọn Tại chỗ/Mang đi và chọn thẻ rung."
 }
