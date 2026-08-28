@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.7/unideal-pos-1.0.7.apk",
-  "sha256": "9b0ac76d79038647080faece87b5d2c0b20d95ccf66d890ebf15b1560b733726",
-  "notes": "Tắt expo-updates trên APK local — hết emergency launch / trắng màn lúc mở app. Ảnh món an toàn hơn."
+  "version": "1.0.8",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.8/unideal-pos-1.0.8.apk",
+  "sha256": "52652b35685f142a89de75700dbff115523722dd28a057d2f0a9e3ed2fab17d0",
+  "notes": "Sửa trắng màn hàng đợi đơn, tắt expo-updates emergency launch, tối ưu lưới món và render POS."
 }
