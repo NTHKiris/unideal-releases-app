@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "versionCode": 16,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.9/unideal-pos-1.0.9.apk",
-    "notes": "Tối ưu in song song Bill & Tem, in theo số lượng ly món, tăng độ ổn định socket in không dây Wi-Fi/LAN, sửa loop re-render hàng đợi đơn, sửa chọn Tại chỗ/Mang đi và chọn thẻ rung."
+  "version": "1.0.10",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.10/unideal-pos-1.0.10.apk",
+  "notes": "Confirm gửi PTTT lên server; printer session reuse/retry; in lại bill/tem đúng số thẻ rung; giữ voucher khi thu tiền."
 }
