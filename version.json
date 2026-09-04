@@ -2,5 +2,5 @@
   "version": "1.0.10",
   "versionCode": 18,
   "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.10/unideal-pos-1.0.10.apk",
-  "notes": "Confirm gửi PTTT lên server; printer session reuse/retry; in lại bill/tem đúng số thẻ rung; giữ voucher khi thu tiền."
+  "notes": "Confirm gửi PTTT lên server; printer session reuse/retry; in lại bill/tem đúng số thẻ rung; giữ voucher khi thu tiền. (APK ký Android Debug — cài đè được từ 1.0.9)"
 }
