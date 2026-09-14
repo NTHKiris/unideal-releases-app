@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.10/unideal-pos-1.0.10.apk",
-  "notes": "Confirm gửi PTTT lên server; printer session reuse/retry; in lại bill/tem đúng số thẻ rung; giữ voucher khi thu tiền. (APK ký Android Debug — cài đè được từ 1.0.9)"
+  "version": "1.0.11",
+  "versionCode": 28,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.11/unideal-pos-1.0.11.apk",
+  "notes": "Native Print Agent (TCP/USB queue per printer) + HTML capture raw đúng kích thước in — bill/tem nhanh hơn rõ. (APK ký Android Debug — cài đè được từ bản debug trước.)"
 }
