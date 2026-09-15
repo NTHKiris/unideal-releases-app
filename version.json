@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "versionCode": 29,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.11/unideal-pos-1.0.11.apk",
-  "notes": "1.0.11 vc29: fix crash BadToken khi chọn Chuyển khoản (Customer Display Presentation). Giữ Print Agent + capture nhanh. (APK ký Android Debug — cài đè được từ bản debug trước.)"
+  "version": "1.0.12",
+  "versionCode": 30,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.12/unideal-pos-1.0.12.apk",
+  "notes": "1.0.12 vc30: nút Kiểm tra & tải OTA (debug mạng/CDN); queue thanh toán + bỏ qua in; banner xanh khi tắt in. (APK ký Android Debug — cài đè được từ bản debug trước.)"
 }
