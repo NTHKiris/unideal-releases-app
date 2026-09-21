@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "versionCode": 30,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.12/unideal-pos-1.0.12.apk",
-  "notes": "1.0.12 vc30: nút Kiểm tra & tải OTA (debug mạng/CDN); queue thanh toán + bỏ qua in; banner xanh khi tắt in. (APK ký Android Debug — cài đè được từ bản debug trước.)"
+  "version": "1.0.14",
+  "versionCode": 38,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.14/unideal-pos-1.0.14.apk",
+  "notes": "1.0.14 vc38: hóa đơn 58mm chữ tự to hơn 15% + mục Cỡ chữ hóa đơn; cỡ từng thành phần tem (mm); template text không dấu (Hóa đơn text / Tem TSPL text / Tem ESC/POS text); bỏ delay in 220-400ms; badge cập nhật trên header. (APK ký Android Debug — cài đè được từ 1.0.12)"
 }
