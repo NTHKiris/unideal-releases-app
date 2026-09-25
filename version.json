@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "versionCode": 38,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.14/unideal-pos-1.0.14.apk",
-  "notes": "1.0.14 vc38: hóa đơn 58mm chữ tự to hơn 15% + mục Cỡ chữ hóa đơn; cỡ từng thành phần tem (mm); template text không dấu (Hóa đơn text / Tem TSPL text / Tem ESC/POS text); bỏ delay in 220-400ms; badge cập nhật trên header. (APK ký Android Debug — cài đè được từ 1.0.12)"
+  "version": "1.0.15",
+  "versionCode": 39,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.15/unideal-pos-1.0.15.apk",
+  "notes": "1.0.15 vc39: ca theo tài khoản; chặn kết ca khi còn đơn xử lý + tự huỷ đơn nháp; gợi ý combo mua kèm (không tự tích, backend tự áp giảm); nút 'Bỏ qua' job in lỗi; 'In thử' qua máy chính; fix tái dùng draft hỏng; sync runtimeVersion 1.0.15."
 }
