@@ -1,6 +1,7 @@
 {
-  "version": "1.0.15",
-  "versionCode": 39,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.15/unideal-pos-1.0.15.apk",
-  "notes": "1.0.15 vc39: ca theo tài khoản; chặn kết ca khi còn đơn xử lý + tự huỷ đơn nháp; gợi ý combo mua kèm (không tự tích, backend tự áp giảm); nút 'Bỏ qua' job in lỗi; 'In thử' qua máy chính; fix tái dùng draft hỏng; sync runtimeVersion 1.0.15."
+  "version": "1.0.16",
+  "versionCode": 40,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.16/unideal-pos-1.0.16.apk",
+  "sha256": "829bb1394931cb3efaf836381819e9d5dc6e7f364b29d4237097e7597f4f31ce",
+  "notes": "1.0.16 vc40: fix kết nối máy in qua LAN — máy chính cắm dây Ethernet hiển thị đúng IP, quét máy chính lấy đúng cổng/địa chỉ đã nhập; màn hình 'Hàng đợi in' (xem/hủy lệnh in chờ hoặc lỗi: hủy trên máy chính + xóa local, thử lại lỗi); lịch sử đơn lọc đúng theo ca và tải đủ đơn trong ca. (APK ký Android Debug — cài đè được từ 1.0.12)"
 }
