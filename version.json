@@ -1,6 +1,7 @@
 {
-  "version": "1.0.16",
-  "versionCode": 40,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.16/unideal-pos-1.0.16.apk",
-  "notes": "1.0.16 vc40: fix ô đăng nhập mất khi màn ngang (wide/landscape); thêm mệnh giá 10k; ca theo tài khoản; chặn kết ca + tự huỷ đơn nháp; combo mua kèm; quét máy chính; kiểm tra kết nối; đổi token trên máy chính."
+  "version": "1.0.17",
+  "versionCode": 41,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.17/unideal-pos-1.0.17.apk",
+  "sha256": "2017e548f3e75c973fa31bd93600ec717a977244f54b15ff79b9ed52f7294496",
+  "notes": "1.0.17 vc41: tạo đơn chống trùng (clientRequestId/confirmationRequestId) — mất mạng/retry không sinh đơn thứ hai; hàng đợi đơn đã thanh toán bền qua tắt app/mất mạng; POS chung cho nhóm cửa hàng đồng sở hữu + hoàn thao tác giỏ; sổ đơn cửa hàng chính & hoàn kho chia sẻ; in: agent chống crash, giới hạn hàng đợi, in tem không chờ bill; phiên đăng nhập không bị đăng xuất khi mạng chập chờn; menu/cache không lẫn cửa hàng cũ."
 }
