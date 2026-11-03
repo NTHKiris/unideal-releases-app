@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "versionCode": 41,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.17/unideal-pos-1.0.17.apk",
-  "sha256": "2017e548f3e75c973fa31bd93600ec717a977244f54b15ff79b9ed52f7294496",
-  "notes": "1.0.17 vc41: tạo đơn chống trùng (clientRequestId/confirmationRequestId) — mất mạng/retry không sinh đơn thứ hai; hàng đợi đơn đã thanh toán bền qua tắt app/mất mạng; POS chung cho nhóm cửa hàng đồng sở hữu + hoàn thao tác giỏ; sổ đơn cửa hàng chính & hoàn kho chia sẻ; in: agent chống crash, giới hạn hàng đợi, in tem không chờ bill; phiên đăng nhập không bị đăng xuất khi mạng chập chờn; menu/cache không lẫn cửa hàng cũ."
+  "version": "1.0.18",
+  "versionCode": 47,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.18/unideal-pos-1.0.18.apk",
+  "sha256": "e1ecc550dd420c21d7e62411951101e33e260a95a9c3814638dbe2c4ff8f0733",
+  "notes": "1.0.18 vc47: secondary target AUTO (bucket % mềm + hold decisionAmount sync khi sửa nháp/voucher); màn hình khách giỏ + QR; hủy phiên in (printAbort); hàng đợi đơn lọc theo userId; điện thoại landscape giữ QR + nút Đã nhận tiền (isPhone ≠ isWide)."
 }
