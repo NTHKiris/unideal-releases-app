@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "versionCode": 47,
-  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.18/unideal-pos-1.0.18.apk",
-  "sha256": "e1ecc550dd420c21d7e62411951101e33e260a95a9c3814638dbe2c4ff8f0733",
-  "notes": "1.0.18 vc47: secondary target AUTO (bucket % mềm + hold decisionAmount sync khi sửa nháp/voucher); màn hình khách giỏ + QR; hủy phiên in (printAbort); hàng đợi đơn lọc theo userId; điện thoại landscape giữ QR + nút Đã nhận tiền (isPhone ≠ isWide)."
+  "version": "1.0.19",
+  "versionCode": 48,
+  "apkUrl": "https://github.com/NTHKiris/unideal-releases-app/releases/download/v1.0.19/unideal-pos-1.0.19.apk",
+  "sha256": "a6ceacb106286a928772c1260b08f22097811c2f02d34430d752802be259bcda",
+  "notes": "1.0.19 vc48: sửa lệch giảm giá khi voucher được áp dụng lại sau khi đơn cửa hàng nhóm chuyển sang cửa hàng phụ; dùng giá và tổng tiền theo đơn server; cải thiện luồng chọn thanh toán, tạo lại đơn và đồng bộ QR lên màn hình khách."
 }
